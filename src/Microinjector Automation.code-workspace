@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "New Bootloader Nano",
+			"path": "..\\..\\New Bootloader Nano"
+		}
+	],
+	"settings": {}
+}
